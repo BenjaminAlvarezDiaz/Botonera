@@ -22,6 +22,6 @@ public class App {
         
         MascotasCombo mascotasCombo = new MascotasCombo();
         mascotasCombo.setVisible(true);
-        ////////////////////
+        
     }
 }
